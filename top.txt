@@ -1,0 +1,11 @@
+word1 word2 Similarity1
+roof cap 1.0
+short dead 1.0
+short little 1.0
+short poor 1.0
+warm strong 1.0
+evening even 1.0
+peril danger 1.0
+place laying 1.0
+place lay 1.0
+place put 1.0
